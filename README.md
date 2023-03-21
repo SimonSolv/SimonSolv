@@ -1,11 +1,15 @@
-# Hi there, I'm [Simon](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student from Russia 🇷🇺
 
-- 👋 Hi, I’m Simon!
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning iOS programming via Swift
-- 💞️ I’m looking to collaborate on some great projects
-- 📫 How to reach me: write on 4to5pm@gmail.com
+# Привет, меня зовут [Семён](https://taplink.cc/solovovo)
+### Я iOS developer из России 🇷🇺
+
+## Вот что я умею
+- Swift: [репозиторий с дипломной работой](https://github.com/SimonSolv/vkontakte)
+- Верстка интерфейса: [репозиторий с курсовой работой](https://github.com/SimonSolv/myHabits)
+- Работа с внешними API: [пример приложения погоды](https://github.com/SimonSolv/weatherApp)
+- Развлечения: [пример игры 2048](https://github.com/SimonSolv/2048-Game)
+
+## Сертификат Нетологии
+- [Продвинутая разработка Swift](https://netology.ru/backend/api/user/programs/30092/pdf_certificate)
 
 <!---
 SimonSolv/SimonSolv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
