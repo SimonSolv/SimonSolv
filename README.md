@@ -1,3 +1,6 @@
+# Hi there, I'm [Simon](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student from Russia 🇷🇺
+
 - 👋 Hi, I’m Simon!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning iOS programming via Swift
